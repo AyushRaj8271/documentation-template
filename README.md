@@ -52,7 +52,9 @@ The basic process for adding content to the site is:
 - Create a new markdown file under the `docs` folder
 - Add the new file to the table of contents (`nav` section in the `mkdocs.yml` file)
 
-If you are using this as a template for creating your own documentation, please see [the instructions for customization](./docs/index.md).
+If you are using this as a template for creating your own documentation, please see  ,
+
+## My Cover and Published CV : [HyperLedger_Mentee_Application_2024](./docs/index.md).
 
 ## Repository layout
 
