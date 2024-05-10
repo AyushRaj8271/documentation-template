@@ -15,6 +15,6 @@ Hi I'm Ayush Raj! I am passionate indiviusal who is writes Techincal Blogs and p
 - **User-Centric Approach:** Focused on creating documentation that enhances user experience and product usability.
 - **Collaborative Spirit:** Thrive in collaborative environments, working closely with developers, designers, and stakeholders.
 
-  - [Cover Letter](docs/about-me/cover-letter.md)
-  - [Resume](docs/about-me/resume.md)
+  - [Cover Letter](./about-me/cover-letter.md)
+  - [Resume](./about-me/resume.md)
 
